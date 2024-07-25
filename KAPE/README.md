@@ -6,6 +6,8 @@ Key features of Kape include the ability to automate data collection processes, 
 ## Getting Started
 
 ![image](https://github.com/user-attachments/assets/349e2f2e-b390-4af8-8773-926dfad97d45)
+![image](https://github.com/user-attachments/assets/d2d9c4e0-af86-4e61-ae9f-20fde546eed2)
+
 
 ## More advance commands: 
 
