@@ -1,1 +1,4 @@
 .DS_Store
+server.config.yaml
+*.docx
+*.deb
