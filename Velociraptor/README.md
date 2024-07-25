@@ -19,6 +19,8 @@ velociraptor.exe --config client.config.yaml service install
 Allow connection in your security devise to the URL: 
 https://velociraptor.rbnetto.dev/
 
+Verify if the tool got blocked or  URL connection
+
 
 This is a valid service managed by us, which host the Velociraptor server.
 
