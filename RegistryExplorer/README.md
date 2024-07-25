@@ -1,3 +1,17 @@
 # RegistryExplorer
 
-(TO-DO)
+Registry Explorer is a tool that allows users to view and edit the Windows Registry, which is a hierarchical database that stores configuration settings and options for the operating system and installed applications. This tool provides a user-friendly interface for navigating the registry, inspecting keys and values, searching for specific entries, and making changes when necessary.
+
+Registry Explorer is often used for tasks such as troubleshooting system issues, analyzing registry entries for malware or suspicious activity, and customizing system settings. It can be a valuable tool for system administrators, IT professionals, and advanced users who need to work with the Windows Registry in a more efficient and organized manner.
+
+## Getting started 
+Double-click in the RegistryExplorer.exe you'd see something like this: 
+
+![image](https://github.com/user-attachments/assets/e238ad8c-4fae-422f-8b11-88b2e10ef568)
+
+Verify if it got blocked by some security tool (AV, EDR, XDR, etc).
+
+### Officials links: 
+
+* https://www.sans.org/tools/registry-explorer/
+* https://ericzimmerman.github.io/#!index.md
