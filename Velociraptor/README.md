@@ -20,7 +20,7 @@ Allow connection in your security devise to the URL:
 https://velociraptor.rbnetto.dev/
 
 
-This is a valid service managed by us, which hosts the Velociraptor server.
+This is a valid service managed by us, which host the Velociraptor server.
 
 
 For more info about the tool go to: [Velociraptor Docs](https://docs.velociraptor.app/)
