@@ -13,7 +13,7 @@ cd C:\Windows\Sysmon
 Sysmon.exe -accepteula -i
 ```
 
-Verify in the security consoles if it got blocked. 
+Verify in the security consoles if it got blocked. Given that it is tool recomended by Microsoft, we suppose that it won't blocked. 
 
-Documentation: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
-Download official link: https://download.sysinternals.com/files/Sysmon.zip
+* Documentation: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+* Download official link: https://download.sysinternals.com/files/Sysmon.zip
