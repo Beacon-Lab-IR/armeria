@@ -21,7 +21,7 @@ Hayabusa is a Windows event log fast forensics timeline generator and threat hun
 
 ## Notes
 
-*The zip file is detected and deleted by the Windows Defender Security*
+*The zip file is detected and deleted by the Windows Defender Security*, This tool is typically used during an analysis process since it analyzes exported .EVTX files, so, it not needed to be tested in client infraestructure. 
 
 
 ### Official Links: 
