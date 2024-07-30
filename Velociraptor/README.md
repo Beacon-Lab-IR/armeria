@@ -4,13 +4,13 @@ Velociraptor is an open-source endpoint monitoring, digital forensics, and incid
 
 This folder contains the client executable and the file configuration needed for the client installation process.
 
-For testing connection 
+For testing connection (as an administator):
 
 ```
 velociraptor.exe --config client.config.yaml client -v
 ```
 
-For installation as a service: 
+For installation as a service (as an administator): 
 
 ```
 velociraptor.exe --config client.config.yaml service install
