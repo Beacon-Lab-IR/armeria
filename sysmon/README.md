@@ -7,6 +7,7 @@ Go to the download folder, uncompress to C:\\Windows\\Sysmon
 
 ![image](https://github.com/user-attachments/assets/9251f29d-31f2-499f-8202-c6177c193a86)
 
+As an Administrator run the following commands: 
 
 ```cmd.exe
 cd C:\Windows\Sysmon
