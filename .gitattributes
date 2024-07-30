@@ -1,2 +1,8 @@
 CIS_CAT/CIS-CAT-Assessor-windows-GUI-jre-v4.43.0.zip filter=lfs diff=lfs merge=lfs -text
 KAPE/kape.zip filter=lfs diff=lfs merge=lfs -text
+hayabusa/hayabusa-2.16.0-win-arm.zip filter=lfs diff=lfs merge=lfs -text
+hayabusa/hayabusa-2.16.0-win-intel.zip filter=lfs diff=lfs merge=lfs -text
+hayabusa/hayabusa-2.16.0-win-x64.zip filter=lfs diff=lfs merge=lfs -text
+hayabusa/README-2.16.0-English.pdf filter=lfs diff=lfs merge=lfs -text
+hayabusa/hayabusa-2.16.0-linux-arm.zip filter=lfs diff=lfs merge=lfs -text
+hayabusa/hayabusa-2.16.0-linux-intel.zip filter=lfs diff=lfs merge=lfs -text
