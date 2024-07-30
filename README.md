@@ -1,8 +1,22 @@
 # IR Armeria
 
 This repository contains a set of tools typically used during an incident response event. Each folder includes its own README.md file with instructions on usage.
+### Executables files (for the cyberdrill)
+| File                                               | MD5 Hash                         |
+|----------------------------------------------------|----------------------------------|
+|kape.exe | 7e09af85742522ab31748c8992839ae6|
+|gkape.exe | b0f04453f5b82ba072b3292dd15d944d|
+|Sysmon64.exe | 99c68a0a2ee8e42ebb52e1c84f80b730|
+|Sysmon.exe | 4bc35649f9d9aec62490376c47b6c143|
+|Sysmon64a.exe | 6bf0fae8adb5abd63e00a4a9c6844cfb|
+|RegistryExplorer.exe | 171d1f2dfa2ef4736af001974cfba782|
+|velociraptor-v0.72.4-windows-amd64.exe|950603c481f0c35854e389f06bf04a72|
+|PingCastle.exe|9ccd89413d4e92a7d15b675bb99ebbaf|
+|Assessor-GUI.exe|8e45025592f2924d54c671e836c7d3f3|
 
-### Tools Table
+
+
+### Tools Table (ZIPPED)
 
 | File                                               | MD5 Hash                         |
 |----------------------------------------------------|----------------------------------|
