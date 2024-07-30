@@ -13,7 +13,9 @@ This repository contains a set of tools typically used during an incident respon
 |velociraptor-v0.72.4-windows-amd64.exe|950603c481f0c35854e389f06bf04a72|
 |PingCastle.exe|9ccd89413d4e92a7d15b675bb99ebbaf|
 |(SCA-Pro) Assessor-GUI.exe|8e45025592f2924d54c671e836c7d3f3|
-
+|thor-lite-util.exe|564e844c62c886af6f826ebd34dfe57d|
+|thor-lite.exe|a2ee743b10a84eaf1c575eda5e54f76a|
+|thor64-lite.exe|a7a8f6df1bbe88c2881f5a43e08df6fd|
 
 
 ### Tools Table (ZIPPED)
