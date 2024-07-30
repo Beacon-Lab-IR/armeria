@@ -9,6 +9,14 @@ Double-click (as an administrator) in the RegistryExplorer.exe you'd see somethi
 
 ![image](https://github.com/user-attachments/assets/e238ad8c-4fae-422f-8b11-88b2e10ef568)
 
+You can load  registries from the live system:
+
+![image](https://github.com/user-attachments/assets/fe240e3f-f24f-4129-a9d3-dc19bd83ec09)
+
+Sample:
+
+![image](https://github.com/user-attachments/assets/3316e4e9-8fd9-49fe-966a-b80dcacd4474)
+
 Verify if it got blocked by some security tool (AV, EDR, XDR, etc).
 
 ### Requirements 
