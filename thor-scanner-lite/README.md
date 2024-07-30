@@ -5,6 +5,16 @@ This tool is commonly used by security professionals, incident responders, and s
 
 ## Getting Started
 For Windows
+1. First, update the THOR tool with the following commands in a `cmd.exe` with admin permissions. Go to the thor folder (compress file downloaded):
+```
+thor-lite-util.exe update
+
+thor-lite-util.exe upgrade
+```
+Then execute it: 
+```
+thor64.exe
+```
 
 ![image](https://github.com/user-attachments/assets/f9ac77fe-c83d-4fe1-9d52-8c225df38150)
 
