@@ -1,6 +1,8 @@
 # IR Armeria
 
 This repository contains a set of tools typically used during an incident response event. Each folder includes its own README.md file with instructions on usage.
+It is recommended execute all the tools as an administrator, we have noticed differences on outputs executing tools as a normal user or admin user.
+
 ### Executables files (for the cyberdrill)
 | File                                               | MD5 Hash                         |
 |----------------------------------------------------|----------------------------------|
