@@ -12,7 +12,7 @@ This repository contains a set of tools typically used during an incident respon
 |RegistryExplorer.exe | 171d1f2dfa2ef4736af001974cfba782|
 |velociraptor-v0.72.4-windows-amd64.exe|950603c481f0c35854e389f06bf04a72|
 |PingCastle.exe|9ccd89413d4e92a7d15b675bb99ebbaf|
-|Assessor-GUI.exe|8e45025592f2924d54c671e836c7d3f3|
+|(SCA-Pro) Assessor-GUI.exe|8e45025592f2924d54c671e836c7d3f3|
 
 
 
