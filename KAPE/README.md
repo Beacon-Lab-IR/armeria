@@ -11,6 +11,8 @@ Key features of Kape include the ability to automate data collection processes, 
 
 ## More advance commands: 
 
+Run this commands as an administrator.
+
 * For targets
 ```cmd.exe
 .\kape.exe --tsource C: --tdest C:\IR-Tools\logs-kape  --target WindowsDefender,AnyDesk,FileZillaClient,FileZillaServer,OpenSSHClient,OpenSSHServer,RemoteUtilities_app,WinSCP,Chrome,!BasicCollection,!SANS_Triage,Antivirus,FileSystem,FTPClients,KapeTriage,RecycleBin,TorrentClients,USBDetective,WSL,ApacheAccessLog,NGINXLogs,DC++,Torrents,$LogFile,ApplicationEvents,EventLogs,EventLogs-RDP,EventTraceLogs,EventTranscriptDB,LogFiles,MemoryFiles,RDPCache,RDPLogs,RecentFileCache,RecycleBin_DataFiles,RecycleBin_InfoFiles,StartupFolders,StartupInfo,USBDevicesLogs,WER,WindowsFirewall --zip target --vss
