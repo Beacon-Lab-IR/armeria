@@ -11,6 +11,11 @@ Double-click in the RegistryExplorer.exe you'd see something like this:
 
 Verify if it got blocked by some security tool (AV, EDR, XDR, etc).
 
+### Requirements 
+It is needed to have .NET 6.0 Desktop Runtime installed 
+
+Download link: https://download.visualstudio.microsoft.com/download/pr/222a065f-5671-4aed-aba9-46a94f2705e2/2bbcbd8e1c304ed1f7cef2be5afdaf43/windowsdesktop-runtime-6.0.32-win-x64.exe
+
 ### Officials links: 
 
 * https://www.sans.org/tools/registry-explorer/
