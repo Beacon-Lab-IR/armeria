@@ -4,7 +4,7 @@ RamCapturer es una pequeña herramienta forense gratuita que permite extraer de 
 RamCapturer   is a tiny free forensic tool that allows to reliably extract the entire contents of computer’s volatile memory—even if protected by an active anti-debugging or anti-dumping system. Separate 32-bit and 64-bit builds are available in order to minimize the tool’s footprint as much as possible. Memory dumps captured with Belkasoft Live RAM Capturer can be analyzed with Live RAM Analysis in Belkasoft Evidence Center. Belkasoft Live RAM Capturer is compatible with all versions and editions of Windows including XP, Vista, Windows 7, 8 and 10, 2003 and 2008 Server.
 
 1. Abrir el CMD.exe en modo Administrador
-2. Ir hasta la carpeta donde descomprimió el archivo RamCapturer.zip . Dirigirse a la carpeta del binario dependiendo de su arquitectura de CPU.
+2. Ir hasta la carpeta donde descomprimió el archivo [RamCapturer.zip](https://github.com/Beacon-Lab-IR/armeria/raw/refs/heads/main/RamCapturer/RamCapturer.zip) . Dirigirse a la carpeta del binario dependiendo de su arquitectura de CPU.
 3. Suponiendo que es 64bit ir a la x64.
 4. Ejecutar el siguiente comando: 
 	```RamCapturer64.exe```
