@@ -4,6 +4,8 @@ THOR Scanner Lite is a security tool designed for scanning and identifying poten
 This tool is commonly used by security professionals, incident responders, and system administrators to enhance the security posture of their systems, detect and respond to security incidents swiftly, and prevent potential threats from causing harm. THOR Scanner Lite provides detailed reports and insights to help users understand the security status of their systems and take appropriate actions to mitigate risks.
 
 ## Getting Started
+Copy the .lic (license) file to the same folder of the .exe files. 
+
 For Windows
 1. First, update the THOR tool with the following commands in a `cmd.exe` with admin permissions. Go to the thor folder (compress file downloaded):
 ```
