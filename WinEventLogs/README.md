@@ -41,7 +41,7 @@ Reverting Changes:
 
 ## 📚 References
 * [Yamato Security Windows Event Log Config GitHub](https://github.com/Yamato-Security/EnableWindowsLogSettings)
-* [Microsoft Docs: Event Logs]https://learn.microsoft.com/en-us/windows/win32/eventlog/event-logging)
+* [Microsoft Docs: Event Logs](https://learn.microsoft.com/en-us/windows/win32/eventlog/event-logging)
 
 ## 🛠️ Troubleshooting
 * Permission Denied:
