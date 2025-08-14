@@ -39,6 +39,23 @@ sudo ./velociraptor service install --config client.config.yaml -v
 sudo dpkg -i velociraptor_client_amd64.deb
 ```
 
+### For MacOS
+```
+xattr -d com.apple.quarantine velociraptor
+chmod +x velociraptor
+sudo ./velociraptor service install --config client.config.yaml -v
+```
+#### Intel CPU 
+```
+velociraptor-darwin-amd64
+```
+
+#### Apple CPU ARM
+```
+velociraptor-darwin-arm64
+```
+
+
 ## Requeriments 
 Allow connection in your security devise to the URL: 
 https://velociraptor.beaconlab.us/
