@@ -40,8 +40,8 @@ Reverting Changes:
 * To revert, restore your system from a backup or manually reset Event Log settings.
 
 ## 📚 References
-* (Yamato Security Windows Event Log Config GitHub)[https://github.com/Yamato-Security/EnableWindowsLogSettings]
-* (Microsoft Docs: Event Logs)[https://learn.microsoft.com/en-us/windows/win32/eventlog/event-logging]
+* [Yamato Security Windows Event Log Config GitHub](https://github.com/Yamato-Security/EnableWindowsLogSettings)
+* [Microsoft Docs: Event Logs](https://learn.microsoft.com/en-us/windows/win32/eventlog/event-logging)
 
 ## 🛠️ Troubleshooting
 * Permission Denied:
