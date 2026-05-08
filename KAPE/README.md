@@ -23,3 +23,10 @@ Run this commands as an administrator.
 .\kape.exe --msource C:\ --mdest C:\IR-Tools\logs-kape\module%d%m --zm true --module DumpIt_Memory,BMC-Tools_RDPBitmapCacheParser,Bulk_extractor,Chainsaw,log4j-scanner,Loki_LiveResponse,Loki_Scan,PowerShell_Netscan,reg_hunter_binary,reg_hunter_email,reg_hunter_encoding,reg_hunter_ip,reg_hunter_link,reg_hunter_obfuscation,reg_hunter_script,reg_hunter_shell,reg_hunter_url,WMI-Parser,LogParser_ApacheAccessLogs,LogParser_DetailedNetworkShareAccess,LogParser_LogonLogoffEvents,LogParser_RDPUsageEvents,LogParser_SMBServerAnonymousLogons,NirSoft_BrowsingHistoryView,NirSoft_FullEventLogView_AllEventLogs,NirSoft_FullEventLogView_Application,NirSoft_FullEventLogView_ScheduledTasks,NirSoft_FullEventLogView_Security,SysInternals_Autoruns,Thor_Scan,Thor_Upgrade,!!ToolSync,!EZParser,bstrings,LiveResponse_NetSystemInfo,LiveResponse_NetworkDetails,LiveResponse_ProcessDetails,LogParser,bstrings_Email,EvtxECmd,EvtxECmd_RDP,RBCmd,RecentFileCacheParser,WxTCmd,KapeResearch_EventLogs_XML,Sync_RECmd,Sync_SQLECmd,PowerShell_Defender_Exclusions,PowerShell_Process_Cmdline,PowerShell_ProcessList_CimInstance,PowerShell_ProcessList_WMI,Windows_ARPCache,Windows_DNSCache,Windows_GpResult,Windows_IPConfig,Windows_ManageBDE_BitLockerKeys,Windows_ManageBDE_BitLockerStatus,Windows_MsInfo,Windows_nbtstat_NetBIOSCache,Windows_nbtstat_NetBIOSSessions,Windows_Net_Accounts,Windows_Net_File,Windows_Net_LocalGroup,Windows_Net_Session,Windows_Net_Share,Windows_Net_Start,Windows_Net_Use,Windows_Net_User,Windows_netsh_portproxy,Windows_NetStat,Windows_qwinsta_RDPSessions,Windows_schtasks
 ```
 
+## Possible USB infections
+* for targets
+* 
+```cmd.exe
+.\kape.exe --tsource C: --tdest C:\kape_output --tflush --target USBDevicesLogs_ca86d72b-24d0-417c-9815-65878659b756,!BasicCollection,!SANS_Triage,RegistryHives,USBDetective,Amcache,ApplicationEvents,EventLogs,EventLogs-RDP,EventTraceLogs,RegistryHivesMSIXApps,RegistryHivesOther,RegistryHivesSystem,RegistryHivesUser,USBDevicesLogs --zip usb_data --gui
+```
+
