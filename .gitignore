@@ -2,3 +2,5 @@
 server.config.yaml
 *.docx
 *.deb
+*.iso
+ISO_TRIAGE_CYBOLT/KAPE-MEDIA-*.iso
